@@ -8,7 +8,7 @@ The paper has been officially published in the:
 
 **Proceedings of the 6th Annual Paper Meet (IEB-EE APM2025)**  
 Electrical Engineering Division (EED), IEB, Ramna, Dhaka, Bangladesh  
-December 2025 :contentReference[oaicite:0]{index=0}
+December 2025
 
 ---
 
