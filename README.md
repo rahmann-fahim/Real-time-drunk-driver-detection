@@ -121,3 +121,26 @@ images/
 ├── hardware_setup.jpg
 ├── simulation_result.png
 ├── flowchart.png
+
+
+
+
+## Future Improvements
+
+- IoT cloud monitoring integration
+- SMS alert system
+- GPS tracking integration
+- Vehicle ignition lock system
+- Remote data logging
+
+---
+
+## Citation
+
+If you use this work in your research, please cite the original publication from ResearchGate and APM2025 proceedings.
+
+---
+
+## License
+
+This repository is created for academic and research purposes only.
