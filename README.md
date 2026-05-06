@@ -108,24 +108,8 @@ The proposed system is:
 
 ---
 
-# Repository Contents
 
-```text
-paper/
-├── APMEE-25-661.pdf
-
-arduino_code/
-├── main.ino
-
-images/
-├── hardware_setup.jpg
-├── simulation_result.png
-├── flowchart.png
-
-
-
-
-## Future Improvements
+# Future Improvements
 
 - IoT cloud monitoring integration
 - SMS alert system
